@@ -1,0 +1,62 @@
+#Case_study{
+   color:dodgerblue;
+
+}
+body{
+    background-color: cadetblue;
+    padding: 10px;
+    margin-top: 10px;
+    border:crimson;
+    font-family: 'Yomogi';
+    color:cyan;
+}
+#icon{
+    width: 70px;
+    height:70px;
+}
+.text_image_div{
+    text-align: left;
+    background-color: white;
+    width:310px;
+    height: 300px;
+    box-shadow: 5px 5px 18px black;
+    padding:10px;
+    margin-top: 0px;
+}
+.text_image_2_div{
+    text-align: left;
+    background-color: white;
+    width:310px;
+    height: 300px;
+    box-shadow: 5px 5px 18px black;
+    padding:10px;
+    margin-top: 0px;
+}
+.div_Result{
+    text-align: left;
+    background-color: white;
+    width:310px;
+    height: 300px;
+    box-shadow: 5px 5px 18px black;
+    padding:10px;
+    margin-top: 0px;
+}
+
+.header_div{
+    text-align: center;
+    text-shadow: 2px aqua;
+}
+.Devolped_div{
+    color: blue;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: whitesmoke;
+    line-height: 3;
+    text-align: center;
+    height: 70px;
+}
+#NIKE_SHOE, #Macbook, #Spectre, #Spectre, #Iphone{
+    width:225px;
+    height: 225px;
+}
